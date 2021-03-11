@@ -430,7 +430,7 @@ Set up your env by copping `.env.template` as `.env`, and fill it out.
 $ cp .env.template .env
 ```
 
-This API will try to use [AWS's Parameter Store](AWS Systems Manager Parameter Store - AWS Systems Manager) by default. If you have your AWS keys set up in your .env, you can instead keep the following values in your Parameter Store and this API will grab those values on startup (the names must be spelled exactly like this in your store):
+This API will try to use [AWS's Parameter Store](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html) by default. If you have your AWS keys set up in your .env, you can instead keep the following values in your Parameter Store and this API will grab those values on startup (the names must be spelled exactly like this in your store):
 
 - `GOOTENBERG_API_KEY`
 - `GOOGLE_SERVICE_ACCOUNT_KEY`
