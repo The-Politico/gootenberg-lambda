@@ -1,6 +1,6 @@
 # Gootenberg on Lambda
 
-An API for all of Gootenberg's services, authenticated with a simple token.
+An API for all of [Gootenberg's](https://github.com/The-Politico/gootenberg) services, authenticated with a simple token.
 
 ## Why This?
 
