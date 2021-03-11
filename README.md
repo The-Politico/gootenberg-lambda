@@ -189,10 +189,8 @@ Content Type: *application/json*
 ```
 
 #### Sample Response Body
-Content Type: *application/json*
+*No response body.*
 
-```
-```
 
 ### [/drive/rename/](https://github.com/The-Politico/gootenberg/blob/main/docs/drive.rename.md)
 
