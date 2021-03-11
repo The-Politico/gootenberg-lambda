@@ -133,19 +133,19 @@ Content Type: *application/json*
 [
   {
     "kind": "drive#file",
-    "id": "1b8YSPpDlXkoRPL3qcnqnIlf3zRvGSUBe",
+    "id": "GOOGLE_ID",
     "name": "delete",
     "mimeType": "application/vnd.google-apps.folder"
   },
   {
     "kind": "drive#file",
-    "id": "1pnMChuvcXMQlKRQdDmTXYQK87Nhwy6SghnxS9AnEfXo",
+    "id": "GOOGLE_ID",
     "name": "comments",
     "mimeType": "application/vnd.google-apps.document"
   },
   {
     "kind": "drive#file",
-    "id": "1eKkYx_wA1YhlShvACV0UjkWIJAcYPL3A",
+    "id": "GOOGLE_ID",
     "name": "Move To",
     "mimeType": "application/vnd.google-apps.folder"
   }
